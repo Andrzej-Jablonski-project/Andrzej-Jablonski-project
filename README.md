@@ -24,7 +24,7 @@
 <br>
 <br>
 <p align="center">
-<a href="https://git.io/streak-stats">
+<a href="https://git.io/streak-stats" target="_blank">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Andrzej-Jablonski-project&theme=radical" />
 </a>
 </p>
