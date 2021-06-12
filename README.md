@@ -15,19 +15,12 @@
 <br>
 <p align="center">
 <a href="https://github.com/Andrzej-Jablonski-project">
-  <img width="430" src="https://github-readme-stats.vercel.app/api?username=Andrzej-Jablonski-project&show_icons=true&theme=radical" />
+  <img width="436" src="https://github-readme-stats.vercel.app/api?username=Andrzej-Jablonski-project&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Andrzej-Jablonski-project">
   <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrzej-Jablonski-project&theme=radical&layout=compact&langs_count=6" />
 </a>
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <p align="center">
