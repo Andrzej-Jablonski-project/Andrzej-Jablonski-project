@@ -15,7 +15,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/Andrzej-Jablonski-project">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Andrzej-Jablonski-project&show_icons=true&theme=radical" />
+  <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=Andrzej-Jablonski-project&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Andrzej-Jablonski-project">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrzej-Jablonski-project&theme=radical&layout=compact&langs_count=6" />
